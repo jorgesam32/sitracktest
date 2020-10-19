@@ -73,7 +73,6 @@ class sumaController extends Controller
                                             $NumberOfPairs = $NumberOfPairs+1;
                                             $EqualValues=1;
                                         }
-                                        print($ValueInFirtsRound."+".$ValueInSecondRound."     ");
                                     }
                                     $LastValueSecondRound=$ValueInSecondRound;
                                 }
